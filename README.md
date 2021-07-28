@@ -1,2 +1,2 @@
 # LeakedShit
-* "i didnt skid" #orK
+* orK
