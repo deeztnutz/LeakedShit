@@ -2,6 +2,7 @@
     or clan is weird as fuck?
     cringe kids in general
     skidded off a very very old source of citizen lmao
+    hi if u hate me we can pack https://discord.gg/8argKmjj
 ]]
 
 	local LoadingTime = tick();
